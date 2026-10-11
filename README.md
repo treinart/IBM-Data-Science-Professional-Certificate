@@ -5,7 +5,7 @@ This repository contains selected coursework and project deliverables from the I
 ## Course Projects
 
 - [Python Project for Data Science](05_Python_Project_for_Data_Science/)
-  - [Completed notebook](05_Python_Project_for_Data_Science/Revenue%20Data%20and%20Building%20a%20Dashboard-v1.ipynb)
+  - [Completed notebook](05_Python_Project_for_Data_Science/Revenue%20Data%20and%20Building%20a%20Dashboard.ipynb)
   - Submission screenshots for Questions 1 through 6
 
 ## Repository Structure
@@ -26,7 +26,7 @@ IBM-Data-Science-Professional-Certificate/
 │   │   └── q6_graph.png
 │   │       └── Complete code-and-results screenshots for the six final-project questions.
 │   │
-│   └── 🐍 Revenue Data and Building a Dashboard-v1.ipynb
+│   └── 🐍 Revenue Data and Building a Dashboard.ipynb
 │       └── Completed Jupyter Notebook for the Tesla and GameStop stock-and-revenue analysis.
 │
 ├── 📄 LICENSE
