@@ -12,18 +12,29 @@ This repository contains selected coursework and project deliverables from the I
 
 ```text
 IBM-Data-Science-Professional-Certificate/
-├── 05_Python_Project_for_Data_Science/
-│   ├── screenshots/
+│
+├── 📁 05_Python_Project_for_Data_Science/
+│   │
+│   ├── 📁 screenshots/
 │   │   ├── q1.png
 │   │   ├── q2.png
 │   │   ├── q3.png
 │   │   ├── q4.png
 │   │   ├── q5.png
 │   │   └── q6.png
-│   └── Revenue Data and Building a Dashboard-v1.ipynb
-├── .gitignore
-├── LICENSE
-└── README.md
+│   │       └── Complete code-and-results screenshots for the six final-project questions.
+│   │
+│   └── 📄 Revenue Data and Building a Dashboard-v1.ipynb
+│       └── Completed Jupyter Notebook for the Tesla and GameStop stock-and-revenue analysis.
+│
+├── 📄 .gitignore
+│   └── Excludes Jupyter checkpoints, Python cache files, and operating-system metadata.
+│
+├── 📄 LICENSE
+│   └── MIT License for my original notebook work, documentation, and screenshots.
+│
+└── 📄 README.md
+    └── Repository overview, file organization, project description, and license information.
 ```
 
 ---
