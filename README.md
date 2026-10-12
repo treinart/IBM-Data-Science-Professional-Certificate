@@ -16,7 +16,21 @@ This repository contains selected coursework and project deliverables from the I
 ```text
 IBM-Data-Science-Professional-Certificate/
 │
+├── 📁 01_What is Data Science/
+│   └── Course focus: the roles, process, and applications of data science.
+│
+├── 📁 02_Tools for Data Science/
+│   └── Course focus: Jupyter, GitHub, and tools used in data work.
+│
+├── 📁 03_Data Science Methodology/
+│   └── Course focus: the data science process from problem definition through evaluation.
+│
+├── 📁 04_Python for Data Science, AI and Development/
+│   └── Course focus: Python fundamentals for data work and AI development.
+│
 ├── 📁 05_Python_Project_for_Data_Science/
+│   │
+│   ├── Course focus: Python data extraction, cleaning, and visualization.
 │   │
 │   ├── 📁 screenshots/
 │   │   ├── q1.png
@@ -32,10 +46,27 @@ IBM-Data-Science-Professional-Certificate/
 │   └── 🐍 Revenue Data and Building a Dashboard.ipynb
 │       └── Completed Jupyter Notebook for the Tesla and GameStop stock-and-revenue analysis.
 │
+├── 📁 06_Databases and SQL for Data Science with Python/
+│   └── Course focus: relational databases, SQL queries, and data analysis.
+│
 ├── 📁 07_Data Analysis with Python/
+│   │
+│   ├── Course focus: data analysis, regression, and model evaluation.
 │   │
 │   └── 🐍 House_Sales_in_King_Count_USA.ipynb
 │       └── Completed final project predicting King County house prices.
+│
+├── 📁 08_Data Visualization with Python/
+│   └── Course focus: charts and visual storytelling with Python.
+│
+├── 📁 09_Machine Learning with Python/
+│   └── Course focus: building and evaluating machine learning models.
+│
+├── 📁 10_Applied Data Science Capstone/
+│   └── Course focus: applying certificate skills to a real-world data problem.
+│
+├── 📁 11_Generative AI/
+│   └── Course focus: generative AI concepts and uses in data science.
 │
 ├── 📄 LICENSE
 │
