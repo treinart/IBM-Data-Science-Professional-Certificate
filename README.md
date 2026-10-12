@@ -17,56 +17,37 @@ This repository contains selected coursework and project deliverables from the I
 IBM-Data-Science-Professional-Certificate/
 │
 ├── 📁 01_What is Data Science/
-│   └── Course focus: the roles, process, and applications of data science.
+│   └── Introduces the work, roles, and real-world uses of data science.
 │
 ├── 📁 02_Tools for Data Science/
-│   └── Course focus: Jupyter, GitHub, and tools used in data work.
+│   └── Covers Jupyter, GitHub, and the tools used in a data science workflow.
 │
 ├── 📁 03_Data Science Methodology/
-│   └── Course focus: the data science process from problem definition through evaluation.
+│   └── Walks through the data science process, from the business question to results.
 │
 ├── 📁 04_Python for Data Science, AI and Development/
-│   └── Course focus: Python fundamentals for data work and AI development.
+│   └── Builds Python skills for data work, AI, and application development.
 │
 ├── 📁 05_Python_Project_for_Data_Science/
-│   │
-│   ├── Course focus: Python data extraction, cleaning, and visualization.
-│   │
-│   ├── 📁 screenshots/
-│   │   ├── q1.png
-│   │   ├── q2.png
-│   │   ├── q3.png
-│   │   ├── q4.png
-│   │   ├── q5.png
-│   │   ├── q5_graph.png
-│   │   ├── q6.png
-│   │   └── q6_graph.png
-│   │       └── Complete code-and-results screenshots for the six final-project questions.
-│   │
-│   └── 🐍 Revenue Data and Building a Dashboard.ipynb
-│       └── Completed Jupyter Notebook for the Tesla and GameStop stock-and-revenue analysis.
+│   └── Uses Python to extract, clean, analyze, and visualize data.
 │
 ├── 📁 06_Databases and SQL for Data Science with Python/
-│   └── Course focus: relational databases, SQL queries, and data analysis.
+│   └── Uses SQL and relational databases to query, join, and analyze data.
 │
 ├── 📁 07_Data Analysis with Python/
-│   │
-│   ├── Course focus: data analysis, regression, and model evaluation.
-│   │
-│   └── 🐍 House_Sales_in_King_Count_USA.ipynb
-│       └── Completed final project predicting King County house prices.
+│   └── Covers data analysis, model evaluation, and regression in Python.
 │
 ├── 📁 08_Data Visualization with Python/
-│   └── Course focus: charts and visual storytelling with Python.
+│   └── Uses Python charts to explore data and tell a clear visual story.
 │
 ├── 📁 09_Machine Learning with Python/
-│   └── Course focus: building and evaluating machine learning models.
+│   └── Builds and evaluates machine learning models in Python.
 │
 ├── 📁 10_Applied Data Science Capstone/
-│   └── Course focus: applying certificate skills to a real-world data problem.
+│   └── Applies the certificate skills to a real-world data science problem.
 │
 ├── 📁 11_Generative AI/
-│   └── Course focus: generative AI concepts and uses in data science.
+│   └── Introduces generative AI and how it fits into data science.
 │
 ├── 📄 LICENSE
 │
