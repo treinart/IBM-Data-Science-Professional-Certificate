@@ -8,6 +8,9 @@ This repository contains selected coursework and project deliverables from the I
   - [Completed notebook](05_Python_Project_for_Data_Science/Revenue%20Data%20and%20Building%20a%20Dashboard.ipynb)
   - Submission screenshots for Questions 1 through 6
 
+- [Data Analysis with Python](07_Data%20Analysis%20with%20Python/)
+  - [Completed notebook](07_Data%20Analysis%20with%20Python/House_Sales_in_King_Count_USA.ipynb)
+
 ## Repository Structure
 
 ```text
@@ -29,6 +32,11 @@ IBM-Data-Science-Professional-Certificate/
 │   └── 🐍 Revenue Data and Building a Dashboard.ipynb
 │       └── Completed Jupyter Notebook for the Tesla and GameStop stock-and-revenue analysis.
 │
+├── 📁 07_Data Analysis with Python/
+│   │
+│   └── 🐍 House_Sales_in_King_Count_USA.ipynb
+│       └── Completed final project predicting King County house prices.
+│
 ├── 📄 LICENSE
 │
 └── 📘 README.md
@@ -39,6 +47,12 @@ IBM-Data-Science-Professional-Certificate/
 ## Python Project for Data Science
 
 This project extracts historical share-price and quarterly revenue data for Tesla and GameStop. It uses `yfinance` for market data and `requests` with BeautifulSoup for web-scraped revenue data. The completed notebook prepares each dataset and creates price-and-revenue charts for both companies.
+
+---
+
+## Data Analysis with Python
+
+This final project uses King County house-sale data to clean missing values, examine price relationships, and compare linear, polynomial, and Ridge regression models.
 
 ## Tools Demonstrated
 
