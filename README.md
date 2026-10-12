@@ -16,38 +16,26 @@ This repository contains selected coursework and project deliverables from the I
 ```text
 IBM-Data-Science-Professional-Certificate/
 │
-├── 📁 01_What is Data Science/
-│   └── Introduces the work, roles, and real-world uses of data science.
-│
-├── 📁 02_Tools for Data Science/
-│   └── Covers Jupyter, GitHub, and the tools used in a data science workflow.
-│
-├── 📁 03_Data Science Methodology/
-│   └── Walks through the data science process, from the business question to results.
-│
-├── 📁 04_Python for Data Science, AI and Development/
-│   └── Builds Python skills for data work, AI, and application development.
-│
 ├── 📁 05_Python_Project_for_Data_Science/
-│   └── Uses Python to extract, clean, analyze, and visualize data.
-│
-├── 📁 06_Databases and SQL for Data Science with Python/
-│   └── Uses SQL and relational databases to query, join, and analyze data.
+│   │
+│   ├── 📁 screenshots/
+│   │   ├── q1.png
+│   │   ├── q2.png
+│   │   ├── q3.png
+│   │   ├── q4.png
+│   │   ├── q5.png
+│   │   ├── q5_graph.png
+│   │   ├── q6.png
+│   │   └── q6_graph.png
+│   │       └── Complete code-and-results screenshots for the six final-project questions.
+│   │
+│   └── 🐍 Revenue Data and Building a Dashboard.ipynb
+│       └── Completed Jupyter Notebook for the Tesla and GameStop stock-and-revenue analysis.
 │
 ├── 📁 07_Data Analysis with Python/
-│   └── Covers data analysis, model evaluation, and regression in Python.
-│
-├── 📁 08_Data Visualization with Python/
-│   └── Uses Python charts to explore data and tell a clear visual story.
-│
-├── 📁 09_Machine Learning with Python/
-│   └── Builds and evaluates machine learning models in Python.
-│
-├── 📁 10_Applied Data Science Capstone/
-│   └── Applies the certificate skills to a real-world data science problem.
-│
-├── 📁 11_Generative AI/
-│   └── Introduces generative AI and how it fits into data science.
+│   │
+│   └── 🐍 House_Sales_in_King_Count_USA.ipynb
+│       └── Completed final project predicting King County house prices.
 │
 ├── 📄 LICENSE
 │
