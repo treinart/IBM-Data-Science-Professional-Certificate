@@ -51,7 +51,7 @@ IBM-Data-Science-Professional-Certificate/
 │   ├── 🐍 DV0101EN-Final-Assign-Part-2-Questions.py
 │   ├── 🐍 flight_delay.py
 │   ├── 🐍 flight_details.py
-│   ├── 📓 DV0101EN-Final-Assign-Part1-Submission.ipynb
+│   ├── 🐍 DV0101EN-Final-Assign-Part1-Submission.ipynb
 │   ├── 🖼️ RecessionReportgraphs.png
 │   └── 🖼️ YearlyReportgraphs.png
 │
