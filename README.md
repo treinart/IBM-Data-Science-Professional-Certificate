@@ -1,6 +1,6 @@
 # IBM Data Science Professional Certificate
 
-This repository contains selected coursework and project deliverables from the IBM Data Science Professional Certificate on Coursera.
+This repository contains selected coursework and project deliverables from the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) on Coursera.
 
 ## Course Projects
 
@@ -64,47 +64,47 @@ IBM-Data-Science-Professional-Certificate/
 
 ## Certificate Curriculum
 
-### 1. [What is Data Science?](https://www.coursera.org/learn/what-is-datascience/)
+### 1. What is Data Science?
 
 Introduces data science as a field: what data scientists do, the problems they solve, and how organizations use data to make decisions and predictions. It also covers data formats, big data, cloud computing, machine learning, deep learning, and common paths into the profession.
 
-### 2. [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science/)
+### 2. Tools for Data Science
 
 Covers the practical toolset used in data science, including open-source, commercial, cloud-based, and big-data platforms. The course provides hands-on work with Jupyter Notebooks, JupyterLab, RStudio, Git, GitHub, Watson Studio, and programming languages such as Python, R, and SQL.
 
-### 3. [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology/)
+### 3. Data Science Methodology
 
 Teaches a structured process for solving data problems, from defining a business question through collecting, preparing, analyzing, modeling, evaluating, deploying, and communicating results. It applies both IBM's Foundational Data Science Methodology and the six-stage CRISP-DM framework to a case study.
 
-### 4. [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai/)
+### 4. Python for Data Science, AI & Development
 
 Builds Python fundamentals through data types, data structures, control flow, functions, files, error handling, and object-oriented programming. It also introduces NumPy, pandas, Jupyter Notebooks, REST APIs, and web scraping with `requests` and Beautiful Soup.
 
-### 5. [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science/)
+### 5. Python Project for Data Science
 
 Applies prior Python skills in a project-based setting. The work includes extracting data, web scraping, visualizing results, and creating a dashboard in a Jupyter Notebook using tools such as pandas, Beautiful Soup, and Plotly.
 
-### 6. [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science/)
+### 6. Databases and SQL for Data Science with Python
 
 Covers relational databases and SQL from foundational `SELECT`, `INSERT`, `UPDATE`, and `DELETE` statements through joins, subqueries, views, stored procedures, and transactions. It also uses Python and Jupyter Notebooks to access databases and analyze real-world datasets.
 
-### 7. [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python/)
+### 7. Data Analysis with Python
 
 Focuses on importing, cleaning, preparing, and exploring data with Python. It uses pandas, NumPy, Matplotlib, Seaborn, SciPy, and scikit-learn for exploratory analysis, correlation analysis, data pipelines, regression modeling, and model evaluation.
 
-### 8. [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization/)
+### 8. Data Visualization with Python
 
 Teaches how to communicate findings through basic and advanced charts, maps, and interactive dashboards. The course uses Matplotlib, Seaborn, Folium, Plotly, and Dash for charts, word clouds, choropleth maps, and interactive visual analysis.
 
-### 9. [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python/)
+### 9. Machine Learning with Python
 
 Covers supervised and unsupervised machine-learning methods with Python and scikit-learn. Topics include regression, classification, decision trees, K-nearest neighbors, support vector machines, clustering, dimensionality reduction, validation, and model optimization.
 
-### 10. [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone/)
+### 10. Applied Data Science Capstone
 
 Brings the certificate's prior work into one end-to-end project using SpaceX Falcon 9 launch data. It includes API collection, web scraping, SQL analysis, data wrangling, visualization, a Plotly Dash dashboard, Folium mapping, predictive classification, and a stakeholder-facing report.
 
-### 11. [Generative AI: Elevate Your Data Science Career](https://www.coursera.org/learn/generative-ai-elevate-your-data-science-career/)
+### 11. Generative AI: Elevate Your Data Science Career
 
 Examines practical uses of generative AI across the data-science lifecycle, including data preparation, querying, augmentation, feature engineering, visualization, insight generation, and model development. It also addresses responsible AI and ethical considerations through applied labs and a project.
 
