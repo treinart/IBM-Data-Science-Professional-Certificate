@@ -11,6 +11,11 @@ This repository contains selected coursework and project deliverables from the I
 - [Data Analysis with Python](07_Data%20Analysis%20with%20Python/)
   - [Completed notebook](07_Data%20Analysis%20with%20Python/House_Sales_in_King_Count_USA.ipynb)
 
+- [Data Visualization with Python](08_Data%20Visualization%20with%20Python/)
+  - [Final Part 1 notebook](08_Data%20Visualization%20with%20Python/DV0101EN-Final-Assign-Part1-Submission.ipynb)
+  - [Final Part 2 Dash application](08_Data%20Visualization%20with%20Python/DV0101EN-Final-Assign-Part-2-Questions.py)
+  - Dashboard screenshots for the recession and yearly reports
+
 ## Repository Structure
 
 ```text
@@ -37,6 +42,19 @@ IBM-Data-Science-Professional-Certificate/
 │   └── 🐍 House_Sales_in_King_Count_USA.ipynb
 │       └── Completed final project predicting King County house prices.
 │
+├── 📁 08_Data Visualization with Python/
+│   │
+│   ├── 🐍 dash_basics.py
+│   ├── 🐍 dash_interactivity.py
+│   ├── 🐍 dash_interactivity_barplot.py
+│   ├── 🐍 Dash_wildfire.py
+│   ├── 🐍 DV0101EN-Final-Assign-Part-2-Questions.py
+│   ├── 🐍 flight_delay.py
+│   ├── 🐍 flight_details.py
+│   ├── 📓 DV0101EN-Final-Assign-Part1-Submission.ipynb
+│   ├── 🖼️ RecessionReportgraphs.png
+│   └── 🖼️ YearlyReportgraphs.png
+│
 ├── 📄 LICENSE
 │
 └── 📘 README.md
@@ -54,6 +72,12 @@ This project extracts historical share-price and quarterly revenue data for Tesl
 
 This final project uses King County house-sale data to clean missing values, examine price relationships, and compare linear, polynomial, and Ridge regression models.
 
+---
+
+## Data Visualization with Python
+
+This course folder contains Dash practice applications, an Australia wildfire dashboard, and both final-project deliverables. The Part 1 notebook analyzes how economic recessions affect automobile sales using line, bar, bubble, scatter, pie, and subplot visualizations. The Part 2 Dash application lets a user switch between recession and yearly reports to view four related automobile-sales charts.
+
 ## Tools Demonstrated
 
 - Python
@@ -63,6 +87,11 @@ This final project uses King County house-sale data to clean missing values, exa
 - requests
 - BeautifulSoup
 - Matplotlib
+- NumPy
+- Seaborn
+- Folium
+- Plotly
+- Dash
 - Git and GitHub
 
 ---
