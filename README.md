@@ -16,6 +16,10 @@ This repository contains selected coursework and project deliverables from the [
   - [Final Part 2 Dash application](08_Data%20Visualization%20with%20Python/DV0101EN-Final-Assign-Part-2-Questions.py)
   - Dashboard screenshots for the recession and yearly reports
 
+- [Machine Learning with Python](09_Machine%20Learning%20with%20Python/)
+  - [Rainfall Prediction Classifier](09_Machine%20Learning%20with%20Python/FinalProject_AUSWeather.ipynb)
+  - Completed final project comparing Logistic Regression and Random Forest models for next-day rainfall prediction
+
 ## Repository Structure
 
 ```text
@@ -54,6 +58,11 @@ IBM-Data-Science-Professional-Certificate/
 │   ├── 🐍 DV0101EN-Final-Assign-Part1-Submission.ipynb
 │   ├── 🖼️ RecessionReportgraphs.png
 │   └── 🖼️ YearlyReportgraphs.png
+│
+├── 📁 09_Machine Learning with Python/
+│   │
+│   └── 🐍 FinalProject_AUSWeather.ipynb
+│       └── Completed final project comparing Logistic Regression and Random Forest models for next-day rainfall prediction.
 │
 ├── 📄 LICENSE
 │
