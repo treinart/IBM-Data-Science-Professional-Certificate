@@ -24,6 +24,9 @@ This repository contains selected coursework and project deliverables from the [
   - [Module 1: SpaceX web-scraping notebook](10_Applied%20Data%20Science%20Capstone/Module%201/jupyter-labs-webscraping.ipynb)
   - [Module 1: SpaceX data-wrangling notebook](10_Applied%20Data%20Science%20Capstone/Module%201/labs-jupyter-spacex-Data%20wrangling-v2.ipynb)
   - Module 1 datasets: [web-scraped launch data](10_Applied%20Data%20Science%20Capstone/Module%201/spacex_web_scraped.csv), [dataset part 1](10_Applied%20Data%20Science%20Capstone/Module%201/dataset_part_1.csv), and [dataset part 2](10_Applied%20Data%20Science%20Capstone/Module%201/dataset_part_2.csv)
+  - [Module 2: SQL exploratory analysis](10_Applied%20Data%20Science%20Capstone/Module%202/jupyter-labs-eda-sql-coursera_sqllite.ipynb)
+  - [Module 2: Data visualization and feature engineering](10_Applied%20Data%20Science%20Capstone/Module%202/jupyter-labs-eda-dataviz-v2.ipynb)
+  - Module 2 datasets: [SpaceX SQL source data](10_Applied%20Data%20Science%20Capstone/Module%202/Spacex.csv) and [dataset part 3 model features](10_Applied%20Data%20Science%20Capstone/Module%202/dataset_part_3.csv)
 
 ## Repository Structure
 
@@ -71,12 +74,18 @@ IBM-Data-Science-Professional-Certificate/
 │
 ├── 📁 10_Applied Data Science Capstone/
 │   │
-│   └── 📁 Module 1/
+│   ├── 📁 Module 1/
 │       ├── 🐍 jupyter-labs-webscraping.ipynb
 │       ├── 🐍 labs-jupyter-spacex-Data wrangling-v2.ipynb
 │       ├── 📊 spacex_web_scraped.csv
 │       ├── 📊 dataset_part_1.csv
 │       └── 📊 dataset_part_2.csv
+│   │
+│   └── 📁 Module 2/
+│       ├── 🐍 jupyter-labs-eda-sql-coursera_sqllite.ipynb
+│       ├── 🐍 jupyter-labs-eda-dataviz-v2.ipynb
+│       ├── 📊 Spacex.csv
+│       └── 📊 dataset_part_3.csv
 │
 ├── 📄 LICENSE
 │
