@@ -20,6 +20,11 @@ This repository contains selected coursework and project deliverables from the [
   - [Rainfall Prediction Classifier](09_Machine%20Learning%20with%20Python/FinalProject_AUSWeather.ipynb)
   - Completed final project comparing Logistic Regression and Random Forest models for next-day rainfall prediction
 
+- [Applied Data Science Capstone](10_Applied%20Data%20Science%20Capstone/)
+  - [Module 1: SpaceX web-scraping notebook](10_Applied%20Data%20Science%20Capstone/Module%201/jupyter-labs-webscraping.ipynb)
+  - [Module 1: SpaceX data-wrangling notebook](10_Applied%20Data%20Science%20Capstone/Module%201/labs-jupyter-spacex-Data%20wrangling-v2.ipynb)
+  - Module 1 datasets: [web-scraped launch data](10_Applied%20Data%20Science%20Capstone/Module%201/spacex_web_scraped.csv), [dataset part 1](10_Applied%20Data%20Science%20Capstone/Module%201/dataset_part_1.csv), and [dataset part 2](10_Applied%20Data%20Science%20Capstone/Module%201/dataset_part_2.csv)
+
 ## Repository Structure
 
 ```text
@@ -63,6 +68,15 @@ IBM-Data-Science-Professional-Certificate/
 │   │
 │   └── 🐍 FinalProject_AUSWeather.ipynb
 │       └── Completed final project comparing Logistic Regression and Random Forest models for next-day rainfall prediction.
+│
+├── 📁 10_Applied Data Science Capstone/
+│   │
+│   └── 📁 Module 1/
+│       ├── 🐍 jupyter-labs-webscraping.ipynb
+│       ├── 🐍 labs-jupyter-spacex-Data wrangling-v2.ipynb
+│       ├── 📊 spacex_web_scraped.csv
+│       ├── 📊 dataset_part_1.csv
+│       └── 📊 dataset_part_2.csv
 │
 ├── 📄 LICENSE
 │
