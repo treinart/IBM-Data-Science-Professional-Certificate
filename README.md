@@ -20,6 +20,7 @@ This repository contains selected coursework and project deliverables from the [
 | 2 | [SQL exploratory analysis](10_Applied%20Data%20Science%20Capstone/Module%202/jupyter-labs-eda-sql-coursera_sqllite.ipynb) and [data visualization and feature engineering](10_Applied%20Data%20Science%20Capstone/Module%202/jupyter-labs-eda-dataviz-v2.ipynb) | [SpaceX SQL source data](10_Applied%20Data%20Science%20Capstone/Module%202/Spacex.csv) and [dataset part 3 model features](10_Applied%20Data%20Science%20Capstone/Module%202/dataset_part_3.csv) |
 | 3 | [Launch-site location analysis with Folium](10_Applied%20Data%20Science%20Capstone/Module%203/lab-jupyter-launch-site-location-v2.ipynb), [interactive Plotly Dash dashboard](10_Applied%20Data%20Science%20Capstone/Module%203/spacex-dash-app.py), [live browser dashboard](https://spacex-launch-analytics.netlify.app/), and [dashboard lab instructions](10_Applied%20Data%20Science%20Capstone/Module%203/lab-instructions.ipynb) | [Launch-site geographic data](10_Applied%20Data%20Science%20Capstone/Module%203/spacex_launch_geo.csv), [Dash dashboard data](10_Applied%20Data%20Science%20Capstone/Module%203/spacex_launch_dash.csv), [static dashboard source](10_Applied%20Data%20Science%20Capstone/Module%203/spacex-dashboard/), and screenshots for [all sites](10_Applied%20Data%20Science%20Capstone/Module%203/01-all-sites-dashboard.png), [a selected site](10_Applied%20Data%20Science%20Capstone/Module%203/02-selected-site-dashboard.png), and [a filtered payload range](10_Applied%20Data%20Science%20Capstone/Module%203/03-payload-filter-dashboard.png) |
 | 4 | [SpaceX machine-learning prediction](10_Applied%20Data%20Science%20Capstone/Module%204/SpaceX-Machine-Learning-Prediction-Part-5-v1.ipynb), comparing Logistic Regression, SVM, Decision Tree, and KNN models | Uses [dataset part 2](10_Applied%20Data%20Science%20Capstone/Module%201/dataset_part_2.csv) and [dataset part 3](10_Applied%20Data%20Science%20Capstone/Module%202/dataset_part_3.csv) from prior modules |
+| 5 | In progress: [capstone report-planning notes](10_Applied%20Data%20Science%20Capstone/Module%205/module-5-report-planning-notes.ipynb) | [Editable presentation deck](10_Applied%20Data%20Science%20Capstone/Module%205/ds-capstone-template-coursera_10.18.26.pptx) and [PDF preview](10_Applied%20Data%20Science%20Capstone/Module%205/ds-capstone-template-coursera_10.18.26.pdf) |
 
 ---
 
@@ -100,8 +101,13 @@ IBM-Data-Science-Professional-Certificate/
 │   │       └── 📘 README.md
 │   │           └── Static browser version of the dashboard, live at https://spacex-launch-analytics.netlify.app/.
 │   │
-│   └── 📁 Module 4/
-│       └── 🐍 SpaceX-Machine-Learning-Prediction-Part-5-v1.ipynb
+│   ├── 📁 Module 4/
+│   │   └── 🐍 SpaceX-Machine-Learning-Prediction-Part-5-v1.ipynb
+│   │
+│   └── 📁 Module 5/
+│       ├── 🐍 module-5-report-planning-notes.ipynb
+│       ├── 📽️ ds-capstone-template-coursera_10.18.26.pptx
+│       └── 📄 ds-capstone-template-coursera_10.18.26.pdf
 │
 ├── 📄 LICENSE
 │
