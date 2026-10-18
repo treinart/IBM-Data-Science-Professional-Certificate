@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://spacex-launch-analytics.netlify.app/sitemap.xml

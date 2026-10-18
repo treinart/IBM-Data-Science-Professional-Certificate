@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="SpaceX Launch Analytics project preview with successful launches by site">
+  <rect width="1200" height="630" fill="#ffffff"/>
+  <rect width="650" height="630" fill="#101d33"/>
+  <rect width="1200" height="8" fill="#119dff"/>
+  <text x="70" y="170" fill="#7cc8e9" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="2">IBM APPLIED DATA SCIENCE CAPSTONE</text>
+  <text x="70" y="299" fill="#ffffff" font-family="Arial, sans-serif" font-size="70" font-weight="700">SpaceX Launch</text>
+  <text x="70" y="385" fill="#ffffff" font-family="Arial, sans-serif" font-size="70" font-weight="700">Analytics</text>
+  <text x="72" y="447" fill="#c6d7e7" font-family="Arial, sans-serif" font-size="25">Sites, payload mass and launch outcomes</text>
+  <path d="M70 507H580" stroke="#405772" stroke-width="2"/>
+  <text x="70" y="551" fill="#f5b85c" font-family="Arial, sans-serif" font-size="24" font-weight="700">TRAVIS REINART</text>
+  <text x="700" y="102" fill="#1b2d48" font-family="Arial, sans-serif" font-size="23" font-weight="700">Successful launches by site</text>
+  <path d="M700 127H1150" stroke="#e2e8f0" stroke-width="2"/>
+  <path d="M840.00 228.00 A112 112 0 0 1 948.18 368.99 L899.89 356.05 A62 62 0 0 0 840.00 278.00 Z" fill="#636efa" stroke="#ffffff" stroke-width="2"/>
+  <path d="M948.18 368.99 A112 112 0 0 1 896.00 436.99 L871.00 393.69 A62 62 0 0 0 899.89 356.05 Z" fill="#ef553b" stroke="#ffffff" stroke-width="2"/>
+  <path d="M896.00 436.99 A112 112 0 0 1 743.01 284.00 L786.31 309.00 A62 62 0 0 0 871.00 393.69 Z" fill="#00cc96" stroke="#ffffff" stroke-width="2"/>
+  <path d="M743.01 284.00 A112 112 0 0 1 840.00 228.00 L840.00 278.00 A62 62 0 0 0 786.31 309.00 Z" fill="#ab63fa" stroke="#ffffff" stroke-width="2"/>
+  <text x="840" y="346" text-anchor="middle" fill="#1b2d48" font-family="Arial, sans-serif" font-size="47" font-weight="700">24</text>
+  <text x="840" y="370" text-anchor="middle" fill="#5d6b7f" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1">SUCCESSFUL</text>
+  <rect x="982" y="228" width="15" height="15" rx="2" fill="#636efa"/>
+  <text x="1007" y="241" fill="#334155" font-family="Arial, sans-serif" font-size="17">CCAFS LC-40</text>
+  <text x="1171" y="241" text-anchor="end" fill="#334155" font-family="Arial, sans-serif" font-size="17" font-weight="700">7</text>
+  <rect x="982" y="276" width="15" height="15" rx="2" fill="#ef553b"/>
+  <text x="1007" y="289" fill="#334155" font-family="Arial, sans-serif" font-size="17">CCAFS SLC-40</text>
+  <text x="1171" y="289" text-anchor="end" fill="#334155" font-family="Arial, sans-serif" font-size="17" font-weight="700">3</text>
+  <rect x="982" y="324" width="15" height="15" rx="2" fill="#00cc96"/>
+  <text x="1007" y="337" fill="#334155" font-family="Arial, sans-serif" font-size="17">KSC LC-39A</text>
+  <text x="1171" y="337" text-anchor="end" fill="#334155" font-family="Arial, sans-serif" font-size="17" font-weight="700">10</text>
+  <rect x="982" y="372" width="15" height="15" rx="2" fill="#ab63fa"/>
+  <text x="1007" y="385" fill="#334155" font-family="Arial, sans-serif" font-size="17">VAFB SLC-4E</text>
+  <text x="1171" y="385" text-anchor="end" fill="#334155" font-family="Arial, sans-serif" font-size="17" font-weight="700">4</text>
+  <path d="M700 510H1150" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="700" y="552" fill="#5d6b7f" font-family="Arial, sans-serif" font-size="19">56 historical launch records</text>
+</svg>

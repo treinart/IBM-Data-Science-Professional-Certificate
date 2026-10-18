@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SpaceX Launch Analytics | IBM Data Science Capstone</title>
+  <meta name="description" content="Explore 56 historical SpaceX launch records by site, payload mass, outcome, and booster version in Travis Reinart's IBM data science capstone dashboard.">
+  <meta name="author" content="Travis Reinart">
+  <meta name="google-site-verification" content="Qoo1CVD6KfBmn9O9bV2qvpwpAB5eEhCxwc5fE2JpLok" />
+  <meta name="theme-color" content="#101d33">
+  <link rel="canonical" href="https://spacex-launch-analytics.netlify.app/">
+  <link rel="icon" type="image/x-icon" href="favicon.ico?v=4">
+  <link rel="icon" type="image/png" sizes="48x48" href="favicon-48.png?v=4">
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png?v=4">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="SpaceX Launch Analytics">
+  <meta property="og:url" content="https://spacex-launch-analytics.netlify.app/">
+  <meta property="og:title" content="SpaceX Launch Analytics | IBM Data Science Capstone">
+  <meta property="og:description" content="Explore historical launch outcomes, sites, payload masses, and booster versions in an interactive course dashboard.">
+  <meta property="og:image" content="https://spacex-launch-analytics.netlify.app/social-card.png?v=4">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="SpaceX Launch Analytics project preview with successful launches by site">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="SpaceX Launch Analytics | IBM Data Science Capstone">
+  <meta name="twitter:description" content="An interactive dashboard of historical SpaceX launch records by Travis Reinart.">
+  <meta name="twitter:image" content="https://spacex-launch-analytics.netlify.app/social-card.png?v=4">
+  <link rel="stylesheet" href="style.css">
+  <script defer src="https://cdn.plot.ly/plotly-3.1.0.min.js"></script>
+  <script defer src="console-brand.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <main>
+    <h1>SpaceX Launch Records Dashboard</h1>
+    <p class="subtitle">Explore launch outcomes by launch site, payload mass, and booster category.</p>
+    <section class="site-section">
+      <label for="site-dropdown">Launch site</label>
+      <div class="select-wrap" id="select-wrap">
+        <input id="site-dropdown" role="combobox" type="text" aria-label="Launch site" aria-autocomplete="list" aria-controls="site-options" aria-expanded="false" autocomplete="off" value="All Sites">
+        <button id="site-arrow" type="button" aria-label="Show launch site options">▾</button>
+        <div id="site-options" role="listbox" hidden></div>
+      </div>
+    </section>
+    <div id="success-pie-chart" class="chart" aria-label="Launch success pie chart"></div>
+    <section class="payload-section">
+      <label id="slider-label">Payload mass range (kg)</label>
+      <div class="payload-input-row" role="group" aria-labelledby="slider-label">
+        <input type="number" min="0" max="10000" step="any" value="0" id="payload-low-value" class="payload-value" aria-label="Minimum payload mass in kilograms">
+        <div class="range-control">
+          <div class="slider-track"><div id="slider-fill"></div></div>
+          <input type="range" min="0" max="10000" step="any" value="0" id="payload-low" aria-label="Minimum payload mass slider">
+          <input type="range" min="0" max="10000" step="any" value="10000" id="payload-high" aria-label="Maximum payload mass slider">
+          <div class="slider-ticks" id="slider-ticks"></div>
+        </div>
+        <input type="number" min="0" max="10000" step="any" value="10000" id="payload-high-value" class="payload-value" aria-label="Maximum payload mass in kilograms">
+      </div>
+    </section>
+    <div id="success-payload-scatter-chart" class="chart" aria-label="Payload mass and launch outcome scatter chart"></div>
+    <p id="error-message" role="alert" hidden></p>
+  </main>
+</body>
+</html>
