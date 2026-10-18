@@ -4,108 +4,21 @@ This repository contains selected coursework and project deliverables from the [
 
 ## Course Projects
 
-- [Python Project for Data Science](05_Python_Project_for_Data_Science/)
-  - [Completed notebook](05_Python_Project_for_Data_Science/Revenue%20Data%20and%20Building%20a%20Dashboard.ipynb)
-  - Submission screenshots for Questions 1 through 6
+| Course | Completed work | Supporting files |
+| --- | --- | --- |
+| [Python Project for Data Science](05_Python_Project_for_Data_Science/) | [Tesla and GameStop stock and revenue analysis](05_Python_Project_for_Data_Science/Revenue%20Data%20and%20Building%20a%20Dashboard.ipynb) | [Submission screenshots for Questions 1–6](05_Python_Project_for_Data_Science/screenshots/) |
+| [Data Analysis with Python](07_Data%20Analysis%20with%20Python/) | [King County house-price analysis](07_Data%20Analysis%20with%20Python/House_Sales_in_King_Count_USA.ipynb) | Completed notebook |
+| [Data Visualization with Python](08_Data%20Visualization%20with%20Python/) | [Part 1 notebook](08_Data%20Visualization%20with%20Python/DV0101EN-Final-Assign-Part1-Submission.ipynb) and [Part 2 Dash application](08_Data%20Visualization%20with%20Python/DV0101EN-Final-Assign-Part-2-Questions.py) | [Recession report](08_Data%20Visualization%20with%20Python/RecessionReportgraphs.png) and [yearly report](08_Data%20Visualization%20with%20Python/YearlyReportgraphs.png) screenshots |
+| [Machine Learning with Python](09_Machine%20Learning%20with%20Python/) | [Rainfall prediction classifier](09_Machine%20Learning%20with%20Python/FinalProject_AUSWeather.ipynb), comparing Logistic Regression and Random Forest models | Completed notebook |
+| [Applied Data Science Capstone](10_Applied%20Data%20Science%20Capstone/) | SpaceX launch-data collection, analysis, visualization, mapping, dashboarding, and predictive modeling | Module details below |
 
-- [Data Analysis with Python](07_Data%20Analysis%20with%20Python/)
-  - [Completed notebook](07_Data%20Analysis%20with%20Python/House_Sales_in_King_Count_USA.ipynb)
+### Applied Data Science Capstone
 
-- [Data Visualization with Python](08_Data%20Visualization%20with%20Python/)
-  - [Final Part 1 notebook](08_Data%20Visualization%20with%20Python/DV0101EN-Final-Assign-Part1-Submission.ipynb)
-  - [Final Part 2 Dash application](08_Data%20Visualization%20with%20Python/DV0101EN-Final-Assign-Part-2-Questions.py)
-  - Dashboard screenshots for the recession and yearly reports
-
-- [Machine Learning with Python](09_Machine%20Learning%20with%20Python/)
-  - [Rainfall Prediction Classifier](09_Machine%20Learning%20with%20Python/FinalProject_AUSWeather.ipynb)
-  - Completed final project comparing Logistic Regression and Random Forest models for next-day rainfall prediction
-
-- [Applied Data Science Capstone](10_Applied%20Data%20Science%20Capstone/)
-  - [Module 1: SpaceX web-scraping notebook](10_Applied%20Data%20Science%20Capstone/Module%201/jupyter-labs-webscraping.ipynb)
-  - [Module 1: SpaceX data-wrangling notebook](10_Applied%20Data%20Science%20Capstone/Module%201/labs-jupyter-spacex-Data%20wrangling-v2.ipynb)
-  - Module 1 datasets: [web-scraped launch data](10_Applied%20Data%20Science%20Capstone/Module%201/spacex_web_scraped.csv), [dataset part 1](10_Applied%20Data%20Science%20Capstone/Module%201/dataset_part_1.csv), and [dataset part 2](10_Applied%20Data%20Science%20Capstone/Module%201/dataset_part_2.csv)
-  - [Module 2: SQL exploratory analysis](10_Applied%20Data%20Science%20Capstone/Module%202/jupyter-labs-eda-sql-coursera_sqllite.ipynb)
-  - [Module 2: Data visualization and feature engineering](10_Applied%20Data%20Science%20Capstone/Module%202/jupyter-labs-eda-dataviz-v2.ipynb)
-  - Module 2 datasets: [SpaceX SQL source data](10_Applied%20Data%20Science%20Capstone/Module%202/Spacex.csv) and [dataset part 3 model features](10_Applied%20Data%20Science%20Capstone/Module%202/dataset_part_3.csv)
-  - [Module 3: Launch-site location analysis with Folium](10_Applied%20Data%20Science%20Capstone/Module%203/lab-jupyter-launch-site-location-v2.ipynb)
-  - [Module 3: Interactive SpaceX dashboard with Plotly Dash](10_Applied%20Data%20Science%20Capstone/Module%203/spacex-dash-app.py)
-  - [Module 3: Dashboard lab instructions](10_Applied%20Data%20Science%20Capstone/Module%203/lab-instructions.ipynb)
-  - Module 3 datasets: [launch-site geographic data](10_Applied%20Data%20Science%20Capstone/Module%203/spacex_launch_geo.csv) and [Dash dashboard data](10_Applied%20Data%20Science%20Capstone/Module%203/spacex_launch_dash.csv)
-  - Module 3 dashboard screenshots: [all sites](10_Applied%20Data%20Science%20Capstone/Module%203/01-all-sites-dashboard.png), [selected site](10_Applied%20Data%20Science%20Capstone/Module%203/02-selected-site-dashboard.png), and [payload filter](10_Applied%20Data%20Science%20Capstone/Module%203/03-payload-filter-dashboard.png)
-
-## Repository Structure
-
-```text
-IBM-Data-Science-Professional-Certificate/
-│
-├── 📁 05_Python_Project_for_Data_Science/
-│   │
-│   ├── 📁 screenshots/
-│   │   ├── q1.png
-│   │   ├── q2.png
-│   │   ├── q3.png
-│   │   ├── q4.png
-│   │   ├── q5.png
-│   │   ├── q5_graph.png
-│   │   ├── q6.png
-│   │   └── q6_graph.png
-│   │       └── Complete code-and-results screenshots for the six final-project questions.
-│   │
-│   └── 🐍 Revenue Data and Building a Dashboard.ipynb
-│       └── Completed Jupyter Notebook for the Tesla and GameStop stock-and-revenue analysis.
-│
-├── 📁 07_Data Analysis with Python/
-│   │
-│   └── 🐍 House_Sales_in_King_Count_USA.ipynb
-│       └── Completed final project predicting King County house prices.
-│
-├── 📁 08_Data Visualization with Python/
-│   │
-│   ├── 🐍 dash_basics.py
-│   ├── 🐍 dash_interactivity.py
-│   ├── 🐍 dash_interactivity_barplot.py
-│   ├── 🐍 Dash_wildfire.py
-│   ├── 🐍 DV0101EN-Final-Assign-Part-2-Questions.py
-│   ├── 🐍 flight_delay.py
-│   ├── 🐍 flight_details.py
-│   ├── 🐍 DV0101EN-Final-Assign-Part1-Submission.ipynb
-│   ├── 🖼️ RecessionReportgraphs.png
-│   └── 🖼️ YearlyReportgraphs.png
-│
-├── 📁 09_Machine Learning with Python/
-│   │
-│   └── 🐍 FinalProject_AUSWeather.ipynb
-│       └── Completed final project comparing Logistic Regression and Random Forest models for next-day rainfall prediction.
-│
-├── 📁 10_Applied Data Science Capstone/
-│   │
-│   ├── 📁 Module 1/
-│       ├── 🐍 jupyter-labs-webscraping.ipynb
-│       ├── 🐍 labs-jupyter-spacex-Data wrangling-v2.ipynb
-│       ├── 📊 spacex_web_scraped.csv
-│       ├── 📊 dataset_part_1.csv
-│       └── 📊 dataset_part_2.csv
-│   │
-│   ├── 📁 Module 2/
-│       ├── 🐍 jupyter-labs-eda-sql-coursera_sqllite.ipynb
-│       ├── 🐍 jupyter-labs-eda-dataviz-v2.ipynb
-│       ├── 📊 Spacex.csv
-│       └── 📊 dataset_part_3.csv
-│   │
-│   └── 📁 Module 3/
-│       ├── 🐍 lab-jupyter-launch-site-location-v2.ipynb
-│       ├── 🐍 spacex-dash-app.py
-│       ├── 🐍 lab-instructions.ipynb
-│       ├── 📊 spacex_launch_geo.csv
-│       ├── 📊 spacex_launch_dash.csv
-│       ├── 🖼️ 01-all-sites-dashboard.png
-│       ├── 🖼️ 02-selected-site-dashboard.png
-│       └── 🖼️ 03-payload-filter-dashboard.png
-│
-├── 📄 LICENSE
-│
-└── 📘 README.md
-```
+| Module | Completed work | Data and evidence |
+| --- | --- | --- |
+| 1 | [Web scraping](10_Applied%20Data%20Science%20Capstone/Module%201/jupyter-labs-webscraping.ipynb) and [data wrangling](10_Applied%20Data%20Science%20Capstone/Module%201/labs-jupyter-spacex-Data%20wrangling-v2.ipynb) | [Web-scraped launch data](10_Applied%20Data%20Science%20Capstone/Module%201/spacex_web_scraped.csv), [dataset part 1](10_Applied%20Data%20Science%20Capstone/Module%201/dataset_part_1.csv), and [dataset part 2](10_Applied%20Data%20Science%20Capstone/Module%201/dataset_part_2.csv) |
+| 2 | [SQL exploratory analysis](10_Applied%20Data%20Science%20Capstone/Module%202/jupyter-labs-eda-sql-coursera_sqllite.ipynb) and [data visualization and feature engineering](10_Applied%20Data%20Science%20Capstone/Module%202/jupyter-labs-eda-dataviz-v2.ipynb) | [SpaceX SQL source data](10_Applied%20Data%20Science%20Capstone/Module%202/Spacex.csv) and [dataset part 3 model features](10_Applied%20Data%20Science%20Capstone/Module%202/dataset_part_3.csv) |
+| 3 | [Launch-site location analysis with Folium](10_Applied%20Data%20Science%20Capstone/Module%203/lab-jupyter-launch-site-location-v2.ipynb), [interactive Plotly Dash dashboard](10_Applied%20Data%20Science%20Capstone/Module%203/spacex-dash-app.py), and [dashboard lab instructions](10_Applied%20Data%20Science%20Capstone/Module%203/lab-instructions.ipynb) | [Launch-site geographic data](10_Applied%20Data%20Science%20Capstone/Module%203/spacex_launch_geo.csv), [Dash dashboard data](10_Applied%20Data%20Science%20Capstone/Module%203/spacex_launch_dash.csv), and screenshots for [all sites](10_Applied%20Data%20Science%20Capstone/Module%203/01-all-sites-dashboard.png), [a selected site](10_Applied%20Data%20Science%20Capstone/Module%203/02-selected-site-dashboard.png), and [a filtered payload range](10_Applied%20Data%20Science%20Capstone/Module%203/03-payload-filter-dashboard.png) |
 
 ---
 
@@ -157,19 +70,14 @@ Examines practical uses of generative AI across the data-science lifecycle, incl
 
 ## Tools Demonstrated
 
-- Python
-- Jupyter Notebook
-- pandas
-- yfinance
-- requests
-- BeautifulSoup
-- Matplotlib
-- NumPy
-- Seaborn
-- Folium
-- Plotly
-- Dash
-- Git and GitHub
+| Area | Tools |
+| --- | --- |
+| Programming and notebooks | Python, Jupyter Notebook |
+| Data analysis and machine learning | pandas, NumPy, scikit-learn |
+| Data acquisition | `requests`, BeautifulSoup, yfinance |
+| Databases and SQL | SQL, SQLite, ipython-sql |
+| Visualization and mapping | Matplotlib, Seaborn, Folium, Plotly, Dash |
+| Version control | Git and GitHub |
 
 ---
 
