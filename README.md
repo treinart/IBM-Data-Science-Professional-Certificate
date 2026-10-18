@@ -27,6 +27,11 @@ This repository contains selected coursework and project deliverables from the [
   - [Module 2: SQL exploratory analysis](10_Applied%20Data%20Science%20Capstone/Module%202/jupyter-labs-eda-sql-coursera_sqllite.ipynb)
   - [Module 2: Data visualization and feature engineering](10_Applied%20Data%20Science%20Capstone/Module%202/jupyter-labs-eda-dataviz-v2.ipynb)
   - Module 2 datasets: [SpaceX SQL source data](10_Applied%20Data%20Science%20Capstone/Module%202/Spacex.csv) and [dataset part 3 model features](10_Applied%20Data%20Science%20Capstone/Module%202/dataset_part_3.csv)
+  - [Module 3: Launch-site location analysis with Folium](10_Applied%20Data%20Science%20Capstone/Module%203/lab-jupyter-launch-site-location-v2.ipynb)
+  - [Module 3: Interactive SpaceX dashboard with Plotly Dash](10_Applied%20Data%20Science%20Capstone/Module%203/spacex-dash-app.py)
+  - [Module 3: Dashboard lab instructions](10_Applied%20Data%20Science%20Capstone/Module%203/lab-instructions.ipynb)
+  - Module 3 datasets: [launch-site geographic data](10_Applied%20Data%20Science%20Capstone/Module%203/spacex_launch_geo.csv) and [Dash dashboard data](10_Applied%20Data%20Science%20Capstone/Module%203/spacex_launch_dash.csv)
+  - Module 3 dashboard screenshots: [all sites](10_Applied%20Data%20Science%20Capstone/Module%203/01-all-sites-dashboard.png), [selected site](10_Applied%20Data%20Science%20Capstone/Module%203/02-selected-site-dashboard.png), and [payload filter](10_Applied%20Data%20Science%20Capstone/Module%203/03-payload-filter-dashboard.png)
 
 ## Repository Structure
 
@@ -81,11 +86,21 @@ IBM-Data-Science-Professional-Certificate/
 │       ├── 📊 dataset_part_1.csv
 │       └── 📊 dataset_part_2.csv
 │   │
-│   └── 📁 Module 2/
+│   ├── 📁 Module 2/
 │       ├── 🐍 jupyter-labs-eda-sql-coursera_sqllite.ipynb
 │       ├── 🐍 jupyter-labs-eda-dataviz-v2.ipynb
 │       ├── 📊 Spacex.csv
 │       └── 📊 dataset_part_3.csv
+│   │
+│   └── 📁 Module 3/
+│       ├── 🐍 lab-jupyter-launch-site-location-v2.ipynb
+│       ├── 🐍 spacex-dash-app.py
+│       ├── 🐍 lab-instructions.ipynb
+│       ├── 📊 spacex_launch_geo.csv
+│       ├── 📊 spacex_launch_dash.csv
+│       ├── 🖼️ 01-all-sites-dashboard.png
+│       ├── 🖼️ 02-selected-site-dashboard.png
+│       └── 🖼️ 03-payload-filter-dashboard.png
 │
 ├── 📄 LICENSE
 │
